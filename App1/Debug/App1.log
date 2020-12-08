@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  MainPage.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+  XamlTypeInfo.g.cpp
+     Creating library E:\01 Astromedicomp\WinDev2020-090\UWP Programs\02 IDE\App1\Debug\App1\App1.lib and object E:\01 Astromedicomp\WinDev2020-090\UWP Programs\02 IDE\App1\Debug\App1\App1.exp
+  App1.vcxproj -> E:\01 Astromedicomp\WinDev2020-090\UWP Programs\02 IDE\App1\Debug\App1\App1.exe
